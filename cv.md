@@ -2,8 +2,8 @@
 ### GET IN CONTACT  
 
 * Mobile: +375291351300
-* E-mail: pilkapone@gmail.com  
-___  
+* E-mail: pilkapone@gmail.com
+___
 ### My goal  
   
 Hello! My name is Yaugenyi. 
@@ -13,7 +13,7 @@ I want to obtain a position as a front-end developer in your company. I am highl
   
 * Programming languages and technologies: JavaScript, HTML, CSS
 * Tools: Visual Studio Code
-* English: Elementary  
+* English: Elementary
 ### Code examples  
 
 ```
