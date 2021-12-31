@@ -13,3 +13,9 @@ I want to obtain a position as a front-end developer in your company. I am highl
 * Programming languages and technologies: JavaScript, HTML, CSS
 * Tools: Visual Studio Code
 * English: Elementary  
+### Code examples  
+```  
+function multiply(a, b){
+    return a * b
+}  
+```  
