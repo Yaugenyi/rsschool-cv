@@ -19,3 +19,7 @@ function multiply(a, b){
     return a * b
 }  
 ```  
+### Education  
+
+* BIP - University of Law and social-information technologies, Minsk, Belarus - expected/anticipated graduation: May 2022
+* Belarusian State Academy of Communications
