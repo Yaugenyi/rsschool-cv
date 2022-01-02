@@ -1,4 +1,4 @@
-.header{
+.header {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -8,12 +8,12 @@
     background-color: rgb(198, 207, 188);
     border-bottom: 2px solid rgb(27, 18, 18);
 }
-.YP{
+
+.YP {
     font: 2em sans-serif;
 }
 
-
-.main{
+.main {
     display: flex;
     align-items: flex-start;
     background: #F6F3EB;
@@ -21,23 +21,27 @@
     width: 800px;
     margin: auto;
 }
-.media-photo{
+
+.media-photo {
     margin-right: 2em;
 }
-.information{
+
+.information {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    font-size: -webkit-x-large;
     font-size: 26px;
 }
-.text1, .contact, .list, .list1{
+
+.text1,
+.contact,
+.list,
+.list1 {
     font: 18px sans-serif;
     font-weight: 100;
 }
 
-
-.footer{
+.footer {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
