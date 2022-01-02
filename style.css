@@ -1,3 +1,20 @@
 .header{
-    
+    width: 1000px;
+    height: 150px;
+    margin: auto;
+    background-color: rgb(180, 168, 190);
+    border-bottom: 2px solid brown;
+}
+
+.main{
+    width: 1000px;
+    margin: auto;
+    background-color: darkkhaki;
+}
+
+.footer{
+    width: 1000px;
+    height: 150px;
+    margin: auto;
+    background-color: chartreuse;
 }
