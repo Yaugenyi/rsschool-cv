@@ -33,7 +33,8 @@
     font-size: 26px;
 }
 .text1, .contact, .list, .list1{
-    font-size: 18px;
+    font: 18px sans-serif;
+    font-weight: 100;
 }
 
 
